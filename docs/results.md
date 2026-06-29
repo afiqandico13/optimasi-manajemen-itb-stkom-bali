@@ -18,5 +18,13 @@
 - **Key Finding**: 13,6% transaksi pengadaan diklasifikasikan sebagai tidak efisien.
 - **Potensi Penghematan**: Estimasi penghematan sebesar Rp2,3 juta per bulan melalui audit vendor, renegosiasi kontrak, atau penggantian supplier.
 
+## Visualisasi Hasil
+
+### Confusion Matrix (Contoh)
+![Confusion Matrix](confusion_matrix.png)
+
+### ROC Curve (Contoh)
+![ROC Curve](roc_curve.png)
+
 ## Ringkasan
 Tiga model klasifikasi berhasil mengidentifikasi faktor kritis dalam masing-masing domain, memberikan dasar untuk rekomendasi strategis yang dapat meningkatkan efektivitas marketing, kinerja SDM, dan efisiensi operasional kampus.
